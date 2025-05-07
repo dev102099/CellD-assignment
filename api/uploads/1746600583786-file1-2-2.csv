@@ -1,0 +1,5 @@
+TransactionID;UserID;Date;Amount;Transaction Type
+T1;User1;18-1-24;1000;Credit
+T2;User1;18-2-24;1000;Debit
+T3;User2;20-3-24;10000;Debit
+T4;User3;20-3-24;20000;debit
